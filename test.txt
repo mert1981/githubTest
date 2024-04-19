@@ -1,1 +1,3 @@
 buraya ilk commitimizi atıyoruz.
+
+buraya ikinci commitimizi yazıyoruz.
